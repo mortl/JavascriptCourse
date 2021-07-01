@@ -1,2 +1,2 @@
 # JavascriptCourse
-JavascriptCourse from Udemy by 
+JavascriptCourse from Udemy. 
